@@ -1,0 +1,12 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/Tooltip
+/qqq.code-workspace
+/OnlineTranscription
+/my-xello-tooltip
+/DealerTrackTest
+/CustomA/customapp
+/AngularCode
+/.vscode
